@@ -1,0 +1,7 @@
+﻿@model MiniShop.Models.ViewModels.UserViewModel
+
+<h2>Bem-vindo, @Model.Name!</h2>
+<p>Email: @Model.Email</p>
+<p>Tipo de Usuário: @Model.UserType</p>
+
+<a href="@Url.Action("Logout", "Account")">Sair</a>

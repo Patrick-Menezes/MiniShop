@@ -1,0 +1,29 @@
+﻿@model MiniShop.Models.ViewModels.ProductViewModel;
+
+
+
+<h2>Adicionar Novo Produto</h2>
+
+<form asp-action="AddProduct" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Nome:</label>
+        <input asp-for="Name" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label>Descrição:</label>
+        <textarea asp-for="Description" class="form-control" required></textarea>
+    </div>
+
+    <div class="form-group">
+        <label>Preço:</label>
+        <input asp-for="Price" class="form-control" type="number" step="0.01" required />
+    </div>
+
+    <div class="form-group">
+        <label>Imagens:</label>
+        <input asp-for="Images" class="form-control" type="file" multiple accept="image/*" required />
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar Produto</button>
+</form>

@@ -1,0 +1,57 @@
+﻿
+@model IEnumerable<MiniShop.Models.Product>;
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+
+
+<h2 class="text-center mb-4">Lista de Produtos</h2>
+<a class="nav-link active" href="@Url.Action("AddProducts","Admin")">Adcionar Produtos</a>
+<div class="container">
+    <div class="row">
+        @foreach (var produto in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card shadow-sm">
+
+                    <!-- Carrossel de Imagens -->
+                    <div id="carousel-@produto.Id" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            @for (int i = 0; i < produto.ImageUrls.Count; i++)
+                            {
+                                <div class="carousel-item @(i == 0 ? "active" : "")">
+                                    <img src="@produto.ImageUrls[i]" class="d-block w-100" alt="@produto.Name">
+                                </div>
+                            }
+                        </div>
+
+                        <!-- Botões Anterior e Próximo -->
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carousel-@produto.Id" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Anterior</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carousel-@produto.Id" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Próximo</span>
+                        </button>
+                    </div>
+
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@produto.Name</h5>
+                        <p class="card-text text-muted">@produto.Description</p>
+                        <h6 class="text-success">R$ @produto.Price.ToString("F2")</h6>
+                        <a href="@Url.Action("Detalhes", "Produtos", new { id = produto.Id })" class="btn btn-primary">
+                            Ver Detalhes
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
