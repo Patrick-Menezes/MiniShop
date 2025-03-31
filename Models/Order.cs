@@ -1,4 +1,5 @@
 ﻿using MiniShop.Models.Enums;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MiniShop.Models
 {
@@ -9,6 +10,8 @@ namespace MiniShop.Models
         public List<CartItem> Items { get; set; }
         public decimal TotalPrice {  get; set; }
         public DateTime OrderDate { get; set; }
+
+        [NotMapped]
         public Payment Payment {  get; set; }
         public OrderStatus Status { get; set; }
 

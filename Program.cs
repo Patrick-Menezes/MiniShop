@@ -23,7 +23,7 @@ builder.Services.AddScoped<StoreService>();
 
 
 var app = builder.Build();
-
+app.UseStaticFiles();
 
 
 // Configure the HTTP request pipeline.

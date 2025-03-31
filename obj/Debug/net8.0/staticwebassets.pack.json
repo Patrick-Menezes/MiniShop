@@ -1,260 +1,488 @@
 {
   "Files": [
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MiniShop.bundle.scp.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MiniShop.bundle.scp.css",
       "PackagePath": "staticwebassets\\MiniShop.9hu34fu0nz.bundle.scp.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\css\\site.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\favicon.ico",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\js\\site.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\uploads\\33e3ea03-7156-418c-a0d0-b8215bccb2c1.png",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\0c6248a7-34be-4dbf-93c6-b063c4a65b05.Png",
+      "PackagePath": "staticwebassets\\uploads\\0c6248a7-34be-4dbf-93c6-b063c4a65b05.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\1fdc311e-a2f1-43a9-aeca-581947b06222.PNG",
+      "PackagePath": "staticwebassets\\uploads\\1fdc311e-a2f1-43a9-aeca-581947b06222.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\288e0956-4e7e-4bcd-8cab-32d99e5e6391.Png",
+      "PackagePath": "staticwebassets\\uploads\\288e0956-4e7e-4bcd-8cab-32d99e5e6391.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\28a8d22b-afea-4017-a637-3ac4b107413f.png",
+      "PackagePath": "staticwebassets\\uploads\\28a8d22b-afea-4017-a637-3ac4b107413f.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\28cc05d5-47a4-4a54-bd00-0e6f144fcd16.PNG",
+      "PackagePath": "staticwebassets\\uploads\\28cc05d5-47a4-4a54-bd00-0e6f144fcd16.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\2e7286de-2cf6-41cf-a7b5-e51592db48ee.Png",
+      "PackagePath": "staticwebassets\\uploads\\2e7286de-2cf6-41cf-a7b5-e51592db48ee.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\30780920-98e8-4296-bb49-57d9e079cc9e.Png",
+      "PackagePath": "staticwebassets\\uploads\\30780920-98e8-4296-bb49-57d9e079cc9e.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\33cc7af0-73b0-4496-ae21-366b711ee315.PNG",
+      "PackagePath": "staticwebassets\\uploads\\33cc7af0-73b0-4496-ae21-366b711ee315.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\33e3ea03-7156-418c-a0d0-b8215bccb2c1.png",
       "PackagePath": "staticwebassets\\uploads\\33e3ea03-7156-418c-a0d0-b8215bccb2c1.png"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\uploads\\502826f1-112e-43d0-89c3-003f62dd0696.png",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\35c5eae5-6c53-43c3-bdda-b78c36284c3a.png",
+      "PackagePath": "staticwebassets\\uploads\\35c5eae5-6c53-43c3-bdda-b78c36284c3a.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\3dfb2fa8-efb6-406a-b800-69a258707171.webp",
+      "PackagePath": "staticwebassets\\uploads\\3dfb2fa8-efb6-406a-b800-69a258707171.webp"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\43c621e1-bb35-4a31-912c-5f85b44d8b23.png",
+      "PackagePath": "staticwebassets\\uploads\\43c621e1-bb35-4a31-912c-5f85b44d8b23.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\4c5cd292-c843-4d02-8a68-c13141741aa7.Png",
+      "PackagePath": "staticwebassets\\uploads\\4c5cd292-c843-4d02-8a68-c13141741aa7.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\502826f1-112e-43d0-89c3-003f62dd0696.png",
       "PackagePath": "staticwebassets\\uploads\\502826f1-112e-43d0-89c3-003f62dd0696.png"
     },
     {
-      "Id": "E:\\trabalho\\c#\\MiniShop\\wwwroot\\uploads\\bb8acd3c-582b-40b1-8176-09b0100f12da.png",
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\51ebf9ed-c7bc-48f5-801b-f8cbb9ea2f6a.PNG",
+      "PackagePath": "staticwebassets\\uploads\\51ebf9ed-c7bc-48f5-801b-f8cbb9ea2f6a.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\540adf49-6e7d-4ef7-9725-d33e898c4d09.Png",
+      "PackagePath": "staticwebassets\\uploads\\540adf49-6e7d-4ef7-9725-d33e898c4d09.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\5683a3bb-3ae8-4f0c-8da1-1b436091ff82.Png",
+      "PackagePath": "staticwebassets\\uploads\\5683a3bb-3ae8-4f0c-8da1-1b436091ff82.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\5ebc5644-28c5-41a1-be23-3e1a6061470d.png",
+      "PackagePath": "staticwebassets\\uploads\\5ebc5644-28c5-41a1-be23-3e1a6061470d.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\5f6a4ddf-c755-4dd3-b269-7352c78d1888.PNG",
+      "PackagePath": "staticwebassets\\uploads\\5f6a4ddf-c755-4dd3-b269-7352c78d1888.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\63108732-5def-48d1-831b-8cca2c66686f.Png",
+      "PackagePath": "staticwebassets\\uploads\\63108732-5def-48d1-831b-8cca2c66686f.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\64d38c2a-3a32-41bf-9811-ef1750616a99.Png",
+      "PackagePath": "staticwebassets\\uploads\\64d38c2a-3a32-41bf-9811-ef1750616a99.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\6c0bf2fd-02e2-4476-8667-9056b1954d65.Png",
+      "PackagePath": "staticwebassets\\uploads\\6c0bf2fd-02e2-4476-8667-9056b1954d65.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\72c0b108-2d71-4cdb-844e-64340c6c9047.PNG",
+      "PackagePath": "staticwebassets\\uploads\\72c0b108-2d71-4cdb-844e-64340c6c9047.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\7bc1d187-b0ff-4502-8b30-f9074793c896.png",
+      "PackagePath": "staticwebassets\\uploads\\7bc1d187-b0ff-4502-8b30-f9074793c896.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\852d3001-9c43-4bc3-a6b3-05df3d3c100d.png",
+      "PackagePath": "staticwebassets\\uploads\\852d3001-9c43-4bc3-a6b3-05df3d3c100d.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\86e041ae-89fc-4338-b078-f5c58b2ffecb.PNG",
+      "PackagePath": "staticwebassets\\uploads\\86e041ae-89fc-4338-b078-f5c58b2ffecb.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\8af32ea9-c1b4-45a1-a521-199e72de553a.png",
+      "PackagePath": "staticwebassets\\uploads\\8af32ea9-c1b4-45a1-a521-199e72de553a.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\8d4218e0-ff8b-4ed9-82f4-0138b5ada365.PNG",
+      "PackagePath": "staticwebassets\\uploads\\8d4218e0-ff8b-4ed9-82f4-0138b5ada365.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\9872705d-89aa-4ca0-9629-44b29c0b5260.Png",
+      "PackagePath": "staticwebassets\\uploads\\9872705d-89aa-4ca0-9629-44b29c0b5260.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\9d980793-125b-4f66-a2f3-34226e07d0cb.Png",
+      "PackagePath": "staticwebassets\\uploads\\9d980793-125b-4f66-a2f3-34226e07d0cb.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\a32f9f29-7b00-4545-921c-e30e1b7680d6.Png",
+      "PackagePath": "staticwebassets\\uploads\\a32f9f29-7b00-4545-921c-e30e1b7680d6.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\a78f8461-4974-412c-afd8-b8779a9b2075.Png",
+      "PackagePath": "staticwebassets\\uploads\\a78f8461-4974-412c-afd8-b8779a9b2075.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\a850d7fd-3631-4c56-bafd-d81fb7f71dea.PNG",
+      "PackagePath": "staticwebassets\\uploads\\a850d7fd-3631-4c56-bafd-d81fb7f71dea.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\a8f04da3-faa0-4bb1-a25c-1514368f4a31.png",
+      "PackagePath": "staticwebassets\\uploads\\a8f04da3-faa0-4bb1-a25c-1514368f4a31.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\ab5f0a8b-3a59-4851-9dcf-711ce88b9b8b.Png",
+      "PackagePath": "staticwebassets\\uploads\\ab5f0a8b-3a59-4851-9dcf-711ce88b9b8b.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\b0df3dd8-d2e7-46d6-a0a7-f431850d63b4.PNG",
+      "PackagePath": "staticwebassets\\uploads\\b0df3dd8-d2e7-46d6-a0a7-f431850d63b4.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\b1c027da-cbfb-4554-8c5d-62f2aba6629a.PNG",
+      "PackagePath": "staticwebassets\\uploads\\b1c027da-cbfb-4554-8c5d-62f2aba6629a.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\bb8acd3c-582b-40b1-8176-09b0100f12da.png",
       "PackagePath": "staticwebassets\\uploads\\bb8acd3c-582b-40b1-8176-09b0100f12da.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\bc26b8d0-1ff3-4460-942b-db7e0d5df32f.Png",
+      "PackagePath": "staticwebassets\\uploads\\bc26b8d0-1ff3-4460-942b-db7e0d5df32f.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\bd59347b-cc21-4001-af03-480098ce3454.png",
+      "PackagePath": "staticwebassets\\uploads\\bd59347b-cc21-4001-af03-480098ce3454.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\be66fed5-8d41-4894-864e-1246670c47dc.Png",
+      "PackagePath": "staticwebassets\\uploads\\be66fed5-8d41-4894-864e-1246670c47dc.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\c8c699a8-1ebd-4d77-a874-f7e64e5b886e.PNG",
+      "PackagePath": "staticwebassets\\uploads\\c8c699a8-1ebd-4d77-a874-f7e64e5b886e.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\cb15d57f-e3e6-44d7-9ccb-c317b7d88706.PNG",
+      "PackagePath": "staticwebassets\\uploads\\cb15d57f-e3e6-44d7-9ccb-c317b7d88706.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\cbcc61f1-9fa6-4333-90d9-3ef219ee2e81.PNG",
+      "PackagePath": "staticwebassets\\uploads\\cbcc61f1-9fa6-4333-90d9-3ef219ee2e81.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\cfb2b9d3-6b33-4b4d-93ea-c33413144f12.png",
+      "PackagePath": "staticwebassets\\uploads\\cfb2b9d3-6b33-4b4d-93ea-c33413144f12.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\d055a746-c535-4db1-b882-09e06f3a6897.png",
+      "PackagePath": "staticwebassets\\uploads\\d055a746-c535-4db1-b882-09e06f3a6897.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\d2bbe73d-51cc-40c7-b01d-75daa81f71a3.png",
+      "PackagePath": "staticwebassets\\uploads\\d2bbe73d-51cc-40c7-b01d-75daa81f71a3.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\d2fa168d-6cae-4af7-9ef8-0f76918e4aae.png",
+      "PackagePath": "staticwebassets\\uploads\\d2fa168d-6cae-4af7-9ef8-0f76918e4aae.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\d5f298f0-225a-4733-9271-3f447b1b76a8.Png",
+      "PackagePath": "staticwebassets\\uploads\\d5f298f0-225a-4733-9271-3f447b1b76a8.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\d691c410-e8e4-4ccf-a5d4-1192815c60c8.Png",
+      "PackagePath": "staticwebassets\\uploads\\d691c410-e8e4-4ccf-a5d4-1192815c60c8.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\dd6360c7-eaaf-4b2c-9a09-04f688df0a36.png",
+      "PackagePath": "staticwebassets\\uploads\\dd6360c7-eaaf-4b2c-9a09-04f688df0a36.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\e1e8c748-5eb4-4959-a77c-2af78aa3729d.Png",
+      "PackagePath": "staticwebassets\\uploads\\e1e8c748-5eb4-4959-a77c-2af78aa3729d.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\e7e4eecb-4f76-470a-8319-f871ca9dd15b.PNG",
+      "PackagePath": "staticwebassets\\uploads\\e7e4eecb-4f76-470a-8319-f871ca9dd15b.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\f21e283c-2c72-4d71-b9ee-f6651abc5766.PNG",
+      "PackagePath": "staticwebassets\\uploads\\f21e283c-2c72-4d71-b9ee-f6651abc5766.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\f3c7485e-c9a4-49f2-a295-62db0822b310.Png",
+      "PackagePath": "staticwebassets\\uploads\\f3c7485e-c9a4-49f2-a295-62db0822b310.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\f9ed8f7e-b701-46c8-b13f-e2f6a30a59ae.png",
+      "PackagePath": "staticwebassets\\uploads\\f9ed8f7e-b701-46c8-b13f-e2f6a30a59ae.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\faf2f25e-2ac3-4653-abd1-2e213ba302ba.Png",
+      "PackagePath": "staticwebassets\\uploads\\faf2f25e-2ac3-4653-abd1-2e213ba302ba.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\fcfc8b84-168f-4a59-b16e-5a73e07d7a59.Png",
+      "PackagePath": "staticwebassets\\uploads\\fcfc8b84-168f-4a59-b16e-5a73e07d7a59.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\fdb8649c-3eb8-4a9f-91bb-a3de278c66b4.PNG",
+      "PackagePath": "staticwebassets\\uploads\\fdb8649c-3eb8-4a9f-91bb-a3de278c66b4.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\feaf1538-bb47-4099-b39f-88289e3f2fb9.Png",
+      "PackagePath": "staticwebassets\\uploads\\feaf1538-bb47-4099-b39f-88289e3f2fb9.Png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MiniShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

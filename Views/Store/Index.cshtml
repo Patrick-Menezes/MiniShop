@@ -1,7 +1,55 @@
-﻿@model MiniShop.Models.ViewModels.UserViewModel
+﻿@model MiniShop.Models.ViewModels.ShopViewModel
 
-<h2>Bem-vindo, @Model.Name!</h2>
-<p>Email: @Model.Email</p>
-<p>Tipo de Usuário: @Model.UserType</p>
+<!-- Submenu superior com ícones de favoritos e carrinho -->
+<nav class="navbar navbar-light bg-light px-4">
+    <span class="navbar-brand">Bem-vindo, @Model.Name!</span>
+    <div class="d-flex">
+        <a asp-action="Favorites" asp-route-clientId="@Model.Id" class="me-3">
+            <i class="bi bi-heart fs-4 text-danger"></i> <!-- Ícone de Favoritos -->
+        </a>
+        <a asp-action="Cart" asp-route-clientId="@Model.Id">
+            <i class="bi bi-cart fs-4 text-primary"></i> <!-- Ícone do Carrinho -->
+        </a>
+    </div>
+</nav>
 
-<a href="@Url.Action("Logout", "Account")">Sair</a>
+<h3 class="text-center mb-4">Produtos para você</h3>
+
+<div class="container">
+    <div class="row">
+        @foreach (var produto in Model.products)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card shadow-sm">
+                    <!-- Carrossel de Imagens -->
+                    <div id="carousel-@produto.Id" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            @for (int i = 0; i < produto.ImageUrls.Count; i++)
+                            {
+                                <div class="carousel-item @(i == 0 ? "active" : "")">
+                                    <img src="@produto.ImageUrls[i]" class="d-block w-100" alt="@produto.Name">
+                                </div>
+                            }
+                        </div>
+                        <!-- Botões Anterior e Próximo -->
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carousel-@produto.Id" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Anterior</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carousel-@produto.Id" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Próximo</span>
+                        </button>
+                    </div>
+
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@produto.Name</h5>
+                        <p class="card-text text-muted">@produto.Description</p>
+                        <h6 class="text-success">R$ @produto.Price.ToString("F2")</h6>
+                        <a asp-action="Details" asp-route-productId="@produto.Id" asp-route-clientId="@Model.Id"> Detalhes</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

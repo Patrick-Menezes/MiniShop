@@ -53,6 +53,7 @@ namespace MiniShop.Controllers
 
             return RedirectToAction("Index", "Store", new
             {
+                Id= user.Id,
                 name = user.Name,
                 email = user.Email,
                 userType = user.UserType.ToString()

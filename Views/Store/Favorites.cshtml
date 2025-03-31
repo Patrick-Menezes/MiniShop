@@ -1,0 +1,30 @@
+﻿@model IEnumerable<WishList>
+
+<h2>Meus Favoritos</h2>
+
+@if (!Model.Any())
+{
+    <p>Sua lista de desejos está vazia.</p>
+}
+else
+{
+    <ul class="wishlist">
+        @foreach (var item in Model)
+        {
+            <li class="wishlist-item">
+                <img src="@item.Product.ImageUrls.FirstOrDefault()" alt="@item.Product.Name" class="wishlist-img" />
+                <div class="wishlist-details">
+                    <strong>@item.Product.Name</strong>
+                    <p>R$ @item.Product.Price.ToString("F2")</p>
+                    <div class="wishlist-actions">
+                        <a asp-controller="Store" asp-action="Details" asp-route-id="@item.ProductId" class="btn btn-primary">Ver Produto</a>
+                        <form asp-controller="WishList" asp-action="Remove" method="post">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger">Remover</button>
+                        </form>
+                    </div>
+                </div>
+            </li>
+        }
+    </ul>
+}

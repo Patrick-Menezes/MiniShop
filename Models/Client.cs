@@ -7,14 +7,27 @@ using Models.Enums;
         :base(id , name , email, password,UserType.Client)
              { }
 
+
+
+
     public List<CartItem> ShoppingCart {  get; set; }=new List<CartItem>();
-    public List<Product> WhishList { get; set; }= new List<Product>();
+    public List<WishList> WishList { get; set; }= new List<WishList>();
 
-    public List<Order> Orders{ get;set; }=new List<Order>();    
-
-
+    public List<Order> Orders{ get;set; }=new List<Order>();
 
 
+    public void AddItemCart(CartItem cartItem)
+    {
+        ShoppingCart.Add(cartItem); 
+    }
+    public void AddOrder(Order order)
+    {
+     Orders.Add(order);
+    }
+    public void AddWishItem(WishList wishList)
+    {
+        WishList.Add(wishList);
+    }
 
 
 

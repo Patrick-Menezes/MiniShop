@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MiniShop.Migrations;
+
 using MiniShop.Models;
 using MiniShop.Models.ViewModels;
 using MiniShop.Services;

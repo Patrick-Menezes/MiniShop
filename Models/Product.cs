@@ -7,7 +7,7 @@
         public string Description { get; set; }
         public decimal Price { get; set; }     
         public List<string> ImageUrls { get; set; }=new List<string>();
-
+        public List<WishList> WishLists { get; set; } = new List<WishList>();
         public Product()
         {
 
