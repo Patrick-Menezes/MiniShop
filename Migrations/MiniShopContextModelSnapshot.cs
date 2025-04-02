@@ -48,6 +48,8 @@ namespace MiniShop.Migrations
 
                     b.HasIndex("OrderId");
 
+                    b.HasIndex("ProductId");
+
                     b.ToTable("CartItems");
                 });
 
@@ -191,6 +193,14 @@ namespace MiniShop.Migrations
                     b.HasOne("MiniShop.Models.Order", null)
                         .WithMany("Items")
                         .HasForeignKey("OrderId");
+
+                    b.HasOne("MiniShop.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("MiniShop.Models.Order", b =>

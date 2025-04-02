@@ -20,6 +20,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+/*lista de desejos */
+.wishlist-container {
+    width: 80%;
+    margin: auto;
+}
+
 .wishlist {
     list-style: none;
     padding: 0;
@@ -28,21 +34,34 @@ body {
 .wishlist-item {
     display: flex;
     align-items: center;
-    gap: 15px;
-    padding: 10px;
     border-bottom: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    background: #f9f9f9;
+    border-radius: 8px;
 }
 
 .wishlist-img {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     object-fit: cover;
-    border-radius: 5px;
+    margin-right: 20px;
+    border-radius: 8px;
 }
 
 .wishlist-details {
     flex-grow: 1;
 }
+
+    .wishlist-details h3 {
+        margin: 0;
+        font-size: 1.2em;
+    }
+
+    .wishlist-details p {
+        margin: 5px 0;
+        color: #555;
+    }
 
 .wishlist-actions {
     display: flex;
@@ -54,16 +73,75 @@ body {
     text-decoration: none;
     border: none;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 .btn-primary {
     background-color: #007bff;
     color: white;
-    border-radius: 5px;
 }
 
 .btn-danger {
-    background-color: #dc3545;
+    background-color: red;
     color: white;
+}
+
+/*carrinho de compras */
+.cart-item {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.cart-item-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 25px;
+    border-radius: 8px;
+}
+
+.cart-item-details {
+    flex-grow: 1;
+}
+
+.cart-item h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.cart-item p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.cart-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.remove-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.checkout {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.checkout-btn {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
     border-radius: 5px;
 }

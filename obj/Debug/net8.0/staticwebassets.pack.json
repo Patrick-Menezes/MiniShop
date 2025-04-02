@@ -245,8 +245,16 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\03c5eda8-ec13-40a8-9de2-ac68ed83ca22.png",
+      "PackagePath": "staticwebassets\\uploads\\03c5eda8-ec13-40a8-9de2-ac68ed83ca22.png"
+    },
+    {
       "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\0c6248a7-34be-4dbf-93c6-b063c4a65b05.Png",
       "PackagePath": "staticwebassets\\uploads\\0c6248a7-34be-4dbf-93c6-b063c4a65b05.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\13adb9f4-5c59-4e0c-89c9-5a6fc1c4b713.png",
+      "PackagePath": "staticwebassets\\uploads\\13adb9f4-5c59-4e0c-89c9-5a6fc1c4b713.png"
     },
     {
       "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\1fdc311e-a2f1-43a9-aeca-581947b06222.PNG",
@@ -263,6 +271,10 @@
     {
       "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\28cc05d5-47a4-4a54-bd00-0e6f144fcd16.PNG",
       "PackagePath": "staticwebassets\\uploads\\28cc05d5-47a4-4a54-bd00-0e6f144fcd16.PNG"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\2b7b2b69-82bd-41c0-a780-7606d8c1aaf8.png",
+      "PackagePath": "staticwebassets\\uploads\\2b7b2b69-82bd-41c0-a780-7606d8c1aaf8.png"
     },
     {
       "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\2e7286de-2cf6-41cf-a7b5-e51592db48ee.Png",
@@ -315,6 +327,10 @@
     {
       "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\5ebc5644-28c5-41a1-be23-3e1a6061470d.png",
       "PackagePath": "staticwebassets\\uploads\\5ebc5644-28c5-41a1-be23-3e1a6061470d.png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\5ef81acb-4719-40a9-9aae-ca0eb589ef3d.png",
+      "PackagePath": "staticwebassets\\uploads\\5ef81acb-4719-40a9-9aae-ca0eb589ef3d.png"
     },
     {
       "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\5f6a4ddf-c755-4dd3-b269-7352c78d1888.PNG",
@@ -409,6 +425,10 @@
       "PackagePath": "staticwebassets\\uploads\\be66fed5-8d41-4894-864e-1246670c47dc.Png"
     },
     {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\c8784f6f-945a-4093-9bd9-6792948ab8d4.png",
+      "PackagePath": "staticwebassets\\uploads\\c8784f6f-945a-4093-9bd9-6792948ab8d4.png"
+    },
+    {
       "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\c8c699a8-1ebd-4d77-a874-f7e64e5b886e.PNG",
       "PackagePath": "staticwebassets\\uploads\\c8c699a8-1ebd-4d77-a874-f7e64e5b886e.PNG"
     },
@@ -443,6 +463,10 @@
     {
       "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\d691c410-e8e4-4ccf-a5d4-1192815c60c8.Png",
       "PackagePath": "staticwebassets\\uploads\\d691c410-e8e4-4ccf-a5d4-1192815c60c8.Png"
+    },
+    {
+      "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\dca5e8bf-8184-4d97-8d11-fb2273b83014.png",
+      "PackagePath": "staticwebassets\\uploads\\dca5e8bf-8184-4d97-8d11-fb2273b83014.png"
     },
     {
       "Id": "D:\\miniShopBack\\MiniShop\\wwwroot\\uploads\\dd6360c7-eaaf-4b2c-9a09-04f688df0a36.png",

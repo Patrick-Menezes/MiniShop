@@ -2,6 +2,7 @@
 using MiniShop.Data;
 using MiniShop.Models;
 
+
 namespace MiniShop.Services
 {
     public class StoreService
@@ -37,6 +38,11 @@ namespace MiniShop.Services
         }
 
 
+        public Product findProduct(int ProductId)
+        {
+            return _context.Products.FirstOrDefault(M=>M.Id ==ProductId);
+        }
+
         public void AddCartItens(int ClientId,int ProductId,int Amount)
         {
 
@@ -47,11 +53,17 @@ namespace MiniShop.Services
             if (user == null)
                 throw new Exception("Cliente não encontrado!");
 
+
+            var product = findProduct(ProductId);
+
+
             var cartItem = new CartItem()
             {
                 ClientId = ClientId,
                 ProductId = ProductId,
-                Amount = Amount
+                Amount = Amount,
+                Product = product,
+           
             };
 
             user.AddItemCart(cartItem); // Adiciona à lista ShoppingCart
@@ -110,6 +122,23 @@ namespace MiniShop.Services
                 .Where(w => w.ClientId == clientId)
                 .ToList();
         }
+
+
+
+        public IEnumerable<CartItem> GetCartItem(int clientId)
+        {
+            return _context.CartItems
+                  .Where(w => w.ClientId == clientId)
+                  .ToList();
+
+
+
+
+
+        }
+
+
+
 
 
     }

@@ -25,8 +25,8 @@ public class MiniShopContext : DbContext
     }
 
     public DbSet<User>Users { get; set; } = default!;
-    public DbSet<Product> Products{ get; set; } = default!;    
-    public DbSet<CartItem> CartItems {  get; set; } = default!;
+    public DbSet<Product> Products{ get; set; } = default!;
+    public DbSet<CartItem> CartItems { get; set; } = default!;
     public DbSet<Order> Orders { get; set; }= default!;
 
     public DbSet<WishList> WishLists { get; set; }

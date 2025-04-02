@@ -23,26 +23,22 @@ namespace MiniShop.Controllers
 
 
 
-        public IActionResult Index(int Id,string name )
+        public IActionResult Index(int Id )
         {
 
-                var products = _storeService.GetProducts();
+          var products = _storeService.GetProducts();
+            var User = _userService.GetUser( Id );
                
             var StoreViewModel  = new ShopViewModel
             {
-                Id = Id,
-                Name = name,
- 
+               User = User,
                 
                 products = products.ToList(),
             };
 
-       
 
             return View(StoreViewModel);
         }
-
-
 
 
         public IActionResult Details(int productId, int clientId)
@@ -74,7 +70,11 @@ namespace MiniShop.Controllers
 
         }
 
+     
+
+        
         [AutoValidateAntiforgeryToken]
+         
         [HttpPost]
         public IActionResult AddToCart(int ProductId,int ClientId,int Amount)
         {
@@ -104,19 +104,36 @@ namespace MiniShop.Controllers
         public IActionResult Favorites(int ClientId)
         {
 
+            var client = _userService.GetUser(ClientId);
+
             var wishList =_storeService.GetWishLists(ClientId);
 
+            var viewModel = new WishViewModel
+            {
+                User = client,
+                products = wishList.ToList()
+            };
 
-
-            return View(wishList);
+            return View(viewModel);
 
         }
 
+        public IActionResult Cart(int ClientId)
+        {
+            var cartItems = _storeService.GetCartItem(ClientId);
 
+            foreach (var item in cartItems)
+            {
+                var product = _storeService.GetProduct(item.ProductId); // Obtém o produto correspondente ao item
+       
+            }
 
+            return View(cartItems);
+        }
 
 
     }
+
 }
 
 

@@ -2,8 +2,7 @@
 {
     public class ShopViewModel
     {
-        public int Id{ get; set; }
-        public string Name{ get; set; }
+        public User User { get; set; }
         public List<Product> products { get; set; }
 
 

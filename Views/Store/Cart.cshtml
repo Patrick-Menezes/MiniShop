@@ -1,0 +1,39 @@
+﻿@model IEnumerable<CartItem>
+
+<h2>Meu Carrinho</h2>
+
+@if (!Model.Any())
+{
+    <p>Seu carrinho está vazio.</p>
+}
+else
+{
+    <div class="cart-container">
+        <ul class="cart-list">
+            @foreach (var item in Model)
+            {
+                <li class="cart-item">
+                    <img src="@item.Product.ImageUrls.FirstOrDefault()" alt="@item.Product.Name" class="wishlist-img" />
+                    <div class="cart-item-details">
+                        <h3>@item.Product.Name</h3>
+                        <p>Preço Unitário: <strong>R$ @item.Product.Price.ToString("F2")</strong></p>
+                        <p>Quantidade: <strong>@item.Amount</strong></p>
+                        <p>Total: <strong>R$ @item.TotalPrice.ToString("F2")</strong></p>
+
+                        <div class="cart-actions">
+                            <form method="post" asp-action="RemoveFromCart" asp-route-id="@item.Id">
+                                <button type="submit" class="remove-btn">Remover</button>
+                            </form>
+                        </div>
+                    </div>
+                </li>
+            }
+        </ul>
+
+        <div class="checkout">
+            <form method="post" asp-action="Checkout">
+                <button type="submit" class="checkout-btn">Finalizar Compra</button>
+            </form>
+        </div>
+    </div>
+}

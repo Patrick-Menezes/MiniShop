@@ -2,6 +2,6 @@
 Mini virtual store with inventory control and payment simulation.
 
 
-adicionar ao carrinho
-adicionar favoritos
+arrumar a navegação do favoritos para detalhes
+
 pagamento

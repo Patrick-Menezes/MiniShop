@@ -2,12 +2,12 @@
 
 <!-- Submenu superior com ícones de favoritos e carrinho -->
 <nav class="navbar navbar-light bg-light px-4">
-    <span class="navbar-brand">Bem-vindo, @Model.Name!</span>
+    <span class="navbar-brand">Bem-vindo, @Model.User.Name!</span>
     <div class="d-flex">
-        <a asp-action="Favorites" asp-route-clientId="@Model.Id" class="me-3">
+        <a asp-action="Favorites" asp-route-clientId="@Model.User.Id" class="me-3">
             <i class="bi bi-heart fs-4 text-danger"></i> <!-- Ícone de Favoritos -->
         </a>
-        <a asp-action="Cart" asp-route-clientId="@Model.Id">
+        <a asp-action="Cart" asp-route-clientId="@Model.User.Id">
             <i class="bi bi-cart fs-4 text-primary"></i> <!-- Ícone do Carrinho -->
         </a>
     </div>
@@ -46,7 +46,7 @@
                         <h5 class="card-title">@produto.Name</h5>
                         <p class="card-text text-muted">@produto.Description</p>
                         <h6 class="text-success">R$ @produto.Price.ToString("F2")</h6>
-                        <a asp-action="Details" asp-route-productId="@produto.Id" asp-route-clientId="@Model.Id"> Detalhes</a>
+                        <a asp-action="Details" asp-route-productId="@produto.Id" asp-route-clientId="@Model.User.Id"> Detalhes</a>
                     </div>
                 </div>
             </div>

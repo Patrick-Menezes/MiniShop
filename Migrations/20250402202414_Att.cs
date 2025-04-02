@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace MiniShop.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial : Migration
+    public partial class Att : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -112,6 +112,12 @@ namespace MiniShop.Migrations
                         principalTable: "Orders",
                         principalColumn: "Id");
                     table.ForeignKey(
+                        name: "FK_CartItems_Products_ProductId",
+                        column: x => x.ProductId,
+                        principalTable: "Products",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
                         name: "FK_CartItems_Users_ClientId",
                         column: x => x.ClientId,
                         principalTable: "Users",
@@ -128,6 +134,11 @@ namespace MiniShop.Migrations
                 name: "IX_CartItems_OrderId",
                 table: "CartItems",
                 column: "OrderId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_CartItems_ProductId",
+                table: "CartItems",
+                column: "ProductId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Orders_ClientId",
