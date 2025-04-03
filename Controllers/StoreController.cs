@@ -101,6 +101,29 @@ namespace MiniShop.Controllers
 
         }
 
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult RemoveWishItem(int ProductId, int ClientId)
+        {
+            if (ProductId <= 0 || ClientId <= 0)
+            {
+                return BadRequest("Parâmetros inválidos.");
+            }
+
+            var success = _storeService.RemoveWishP(ClientId, ProductId);
+
+            if (!success)
+            {
+                return BadRequest("Falha ao remover o item da lista de desejos.");
+            }
+
+            return RedirectToAction("Favorites", new { ClientId });
+        }
+
+
+
+
         public IActionResult Favorites(int ClientId)
         {
 

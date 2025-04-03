@@ -7,28 +7,16 @@
       "RelativeMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|solutionrelative:views\\store\\favorites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|d:\\minishopback\\minishop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|d:\\minishopback\\minishop\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|solutionrelative:views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|d:\\minishopback\\minishop\\models\\viewmodels\\wishviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|solutionrelative:models\\viewmodels\\wishviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|d:\\minishopback\\minishop\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|solutionrelative:services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|d:\\minishopback\\minishop\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|solutionrelative:controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|d:\\minishopback\\minishop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|d:\\minishopback\\minishop\\models\\viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|solutionrelative:models\\viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|d:\\minishopback\\minishop\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6EFD7769-1AC3-43CE-B7D9-775F1FE21D9F}|MiniShop.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShopViewModel.cs",
-              "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\Models\\ViewModels\\ShopViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\ShopViewModel.cs",
-              "ToolTip": "D:\\miniShopBack\\MiniShop\\Models\\ViewModels\\ShopViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModels\\ShopViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T20:48:07.488Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Favorites.cshtml",
-              "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\Views\\Store\\Favorites.cshtml",
-              "RelativeDocumentMoniker": "Views\\Store\\Favorites.cshtml",
-              "ToolTip": "D:\\miniShopBack\\MiniShop\\Views\\Store\\Favorites.cshtml",
-              "RelativeToolTip": "Views\\Store\\Favorites.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T21:02:47.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\Views\\Store\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Store\\Index.cshtml",
-              "ToolTip": "D:\\miniShopBack\\MiniShop\\Views\\Store\\Index.cshtml",
-              "RelativeToolTip": "Views\\Store\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T21:03:48.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WishViewModel.cs",
-              "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\Models\\ViewModels\\WishViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\WishViewModel.cs",
-              "ToolTip": "D:\\miniShopBack\\MiniShop\\Models\\ViewModels\\WishViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModels\\WishViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:00:21.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "D:\\miniShopBack\\MiniShop\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAowDQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T20:52:58.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "StoreController.cs",
               "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "Controllers\\StoreController.cs",
               "ToolTip": "D:\\miniShopBack\\MiniShop\\Controllers\\StoreController.cs",
               "RelativeToolTip": "Controllers\\StoreController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAIwGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwG0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T20:48:59.816Z",
+              "WhenOpened": "2025-04-03T20:13:37.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\miniShopBack\\MiniShop\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwD8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-02T20:42:15.964Z",
+              "DocumentIndex": 1,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\Services\\StoreService.cs",
+              "RelativeDocumentMoniker": "Services\\StoreService.cs",
+              "ToolTip": "D:\\miniShopBack\\MiniShop\\Services\\StoreService.cs",
+              "RelativeToolTip": "Services\\StoreService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:09:53.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\miniShopBack\\MiniShop\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-03T20:09:32.425Z",
               "EditorCaption": ""
             },
             {
@@ -139,6 +74,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Favorites.cshtml",
+              "DocumentMoniker": "D:\\miniShopBack\\MiniShop\\Views\\Store\\Favorites.cshtml",
+              "RelativeDocumentMoniker": "Views\\Store\\Favorites.cshtml",
+              "ToolTip": "D:\\miniShopBack\\MiniShop\\Views\\Store\\Favorites.cshtml",
+              "RelativeToolTip": "Views\\Store\\Favorites.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T21:02:47.336Z",
+              "EditorCaption": ""
             }
           ]
         }

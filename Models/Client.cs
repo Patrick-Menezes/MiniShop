@@ -29,6 +29,13 @@ using Models.Enums;
         WishList.Add(wishList);
     }
 
+    public void RemoveWishItem(WishList wishList)
+        {
+        WishList.Remove(wishList);
+
+        }
+
+
 
 
     }

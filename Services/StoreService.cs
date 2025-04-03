@@ -115,6 +115,42 @@ namespace MiniShop.Services
         }
 
 
+        public bool RemoveWishP(int ClientId, int ProductId)
+        {
+            var user = _context.Users.OfType<Client>()
+                .Include(c => c.WishList)
+                .FirstOrDefault(c => c.Id == ClientId);
+
+            if (user == null)
+            {
+                throw new Exception("Usuário não encontrado.");
+            }
+
+            var item = user.WishList.FirstOrDefault(w => w.ProductId == ProductId);
+
+            if (item == null)
+            {
+                throw new Exception("Produto não encontrado na lista de desejos.");
+            }
+
+            user.WishList.Remove(item);
+
+            try
+            {
+                _context.SaveChanges(); // Salva as mudanças no banco
+                return true;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Erro ao salvar a lista de desejos.", ex);
+            }
+        }
+
+
+
+
+
+
         public IEnumerable<WishList> GetWishLists(int clientId)
         {
             return _context.WishLists
@@ -136,6 +172,8 @@ namespace MiniShop.Services
 
 
         }
+
+
 
 
 

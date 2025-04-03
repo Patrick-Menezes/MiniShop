@@ -21,11 +21,14 @@ else
                         <p>Preço: <strong>R$ @item.Product.Price.ToString("F2")</strong></p>
 
                         <div class="wishlist-actions">
-                            <a asp-controller="Store" asp-action="Details" asp-route-ProductId="@item."ProductId" asp-route-clientId="@Model.User.Id"
+                            <a asp-controller="Store" asp-action="Details" 
+                               asp-route-productId="@item.ProductId" 
+                               asp-route-clientId="@Model.User.Id"
                                class="btn btn-primary">Ver Produto</a>
 
-                            <form asp-controller="WishList" asp-action="Remove" method="post">
-                                <input type="hidden" name="id" value="@item.Id" />
+                            <form asp-controller="Store" asp-action="RemoveWishItem" method="post">
+                                <input type="hidden" name="ProductId" value="@item.ProductId" />
+                                <input type="hidden" name="ClientId" value="@Model.User.Id" />
                                 <button type="submit" class="btn btn-danger">Remover</button>
                             </form>
                         </div>
